@@ -1,4 +1,3 @@
-![logo](https://github.com/Sahil-Madhyan/Sahil-Madhyan/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Sahil Madhyan</h1>
 <h3 align="center">A passionate developer and eager to learn and try out new stuff</h3>
 
@@ -26,5 +25,5 @@
 
     
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahil-madhyan&show_icons=true&theme=radical)
-&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-madhyan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+&emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-madhyan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-madhyan&theme=radical" alt="sahil-madhyan" /></p>
