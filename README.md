@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-- 🌐 Curious about who I am? Take a glimpse of <a href="https://sahil-madhyan.github.io">**My Portfolio Website**</a>
+- ⚡ Curious about who I am? Take a glimpse of <a href="https://sahil-madhyan.github.io">**My Portfolio Website**</a>
 
 - 🔭 I’m currently pursuing **B.E In Computer Science**
 
