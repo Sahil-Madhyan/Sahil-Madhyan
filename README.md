@@ -45,8 +45,9 @@
         </td>
         <td>
             
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-madhyan&layout=compact&theme=vue-dark)
+![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Madhyan&theme=vue-dark&hide_border=false)
         </td>
    </tr>
 </table>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-madhyan&theme=vue-dark&hide_border=false" alt="sahil-madhyan" /></p>
+
+
