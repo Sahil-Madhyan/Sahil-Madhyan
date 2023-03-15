@@ -53,7 +53,6 @@
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahil-madhyan&show_icons=true&theme=vue-dark)
         </td>
         <td>
-            
 ![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Madhyan&theme=vue-dark&hide_border=false)
         </td>
    </tr>
