@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Web projects**
 
-- 🌱 I’m currently learning **Java and DSA**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **sahilmadhyan880@gmail.com**
 
