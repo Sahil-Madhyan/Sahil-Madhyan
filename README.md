@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Madhyan</h1>
 <h3 align="center">Devoted coder with a desire to explore and experiment.</h3>
 
+<p align="center"> <img src="https://github.com/Sahil-Madhyan/Sahil-Madhyan/blob/main/coding.gif" alt="coding" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sahil-madhyan&&label=Profile%20views&color=008080&style=for-the-badge" alt="sahil-madhyan" /> </p>
 
 # 💫 About Me:
