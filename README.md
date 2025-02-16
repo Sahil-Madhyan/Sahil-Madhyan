@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sahil Madhyan</h1>
-<h3 align="center">Software Engineer @Linedata | Crafting Innovative Solutions with Java, Python & React</h3>
+<h3 align="center">Devoted Coder | Full-Stack Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <!-- Free animated SVG from an open-source resource -->
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-profile-readme-generator/master/Developer.svg" alt="coding animation" width="300"/>
-</p>
+  <img src="https://github.com/Sahil-Madhyan/Sahil-Madhyan/blob/main/coding.gif" alt="coding" width="250"/>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahil-madhyan&&label=Profile%20views&color=008080&style=for-the-badge" alt="Profile Views"/>
 </p>
