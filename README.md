@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm Sahil Madhyan</h1>
-<h3 align="center">Devoted Coder | Full-Stack Enthusiast | Problem Solver</h3>
+<h3 align="center">Software Engineer @Linedata | Crafting Innovative Solutions with Java, Python & React</h3>
 
 <p align="center">
-  <img src="https://github.com/Sahil-Madhyan/Sahil-Madhyan/blob/main/coding.gif" alt="coding" width="250"/>
+  <!-- Free animated SVG from an open-source resource -->
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-profile-readme-generator/master/Developer.svg" alt="coding animation" width="300"/>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahil-madhyan&&label=Profile%20views&color=008080&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ## 💫 About Me
-I'm a passionate computer science student with a knack for building engaging web solutions. Currently pursuing my B.E in Computer Science, I love collaborating on innovative projects and sharpening my skills in DSA.  
-[Explore my portfolio](https://sahil-madhyan.vercel.app) to know more!
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-madhyan)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sahil_madhyan)
+- ⚡ Curious about who I am? Take a glimpse of [**My Portfolio Website**](https://sahil-madhyan.vercel.app)
+- 🎓 I hold a **B.E in Computer Science** from Vivekanand Education Society's Institute of Technology
+- 👯 I’m looking to collaborate on **Web projects**
+- 🌱 I’m currently learning **DSA**
+- 💬 Ask me about **Java**
+- 📫 How to reach me **sahilmadhyan880@gmail.com**
 
 ## 💻 Tech Stack
 
@@ -43,6 +45,10 @@ I'm a passionate computer science student with a knack for building engaging web
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-madhyan) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sahil_madhyan)
+
 ## 📊 GitHub Stats
 <table align="center">
   <tr>
@@ -50,7 +56,7 @@ I'm a passionate computer science student with a knack for building engaging web
       <img src="https://github-readme-stats.vercel.app/api?username=sahil-madhyan&show_icons=true&theme=vue-dark" alt="Sahil's GitHub stats"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Madhyan&theme=vue-dark&hide_border=false" alt="Github Streak Stats"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Madhyan&theme=vue-dark&hide_border=false" alt="GitHub Streak Stats"/>
     </td>
   </tr>
 </table>
