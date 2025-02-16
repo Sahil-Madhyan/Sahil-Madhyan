@@ -2,6 +2,9 @@
 <h3 align="center">Devoted Coder | Full-Stack Enthusiast | Problem Solver</h3>
 
 <p align="center">
+  <img src="https://github.com/Sahil-Madhyan/Sahil-Madhyan/blob/main/coding.gif" alt="coding" width="250"/>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahil-madhyan&&label=Profile%20views&color=008080&style=for-the-badge" alt="Profile Views"/>
 </p>
 
